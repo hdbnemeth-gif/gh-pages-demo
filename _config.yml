@@ -1,6 +1,6 @@
 remote_theme: devich/quick@0.0.1
 theme_color: pumpkin
 title: Orange And Date Cake
-bg_color: light
+bg_color: dark
 plugins: 
   - jekyll-remote-theme # add this line to the plugins list if you already have one
